@@ -23,9 +23,7 @@ The repository is organized with the following folder structure:
 
 
   - **[day]/**
-    - **input/**
       - `input.txt` - text file containing the input for question.
-    - **Notebook/**
       - `solution.ipynb` - Polyglot Jupyter notebook containing the solutions and explanations.
 
 ## Polyglot Notebook
