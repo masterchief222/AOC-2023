@@ -23,7 +23,7 @@ The repository is organized with the following folder structure:
 
 
   - **[day]/**
-    - **C#/**
+    - **input/**
       - `input.txt` - text file containing the input for question.
     - **Notebook/**
       - `solution.ipynb` - Polyglot Jupyter notebook containing the solutions and explanations.
@@ -42,9 +42,8 @@ To provide a more interactive and educational experience, I am using a Jupyter n
 
 2. Navigate to the day and part you are interested in.
 
-3. Explore the C# solution in the `C#` folder and the polyglot notebook in the `Notebook` folder.
+3. Explore the C# solution in the polyglot notebook.
 
-Feel free to use, modify, or share the code as per the license terms.
 
 
 Happy coding! 🚀
